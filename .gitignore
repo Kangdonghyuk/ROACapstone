@@ -51,6 +51,8 @@ captures/
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
+capstone-liunx0-firebase-adminsdk-8ke8r-eca629c61b.json
+*.json
 
 # Freeline
 freeline.py
